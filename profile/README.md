@@ -27,6 +27,7 @@ This is a Universal Handsign Translator project that uses Mediapipe and PyTorch 
 2. Install the required packages:
 
 ```bash
+cd backend
 pip install -r requirements.txt
 ```
 
