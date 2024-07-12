@@ -1,6 +1,6 @@
 # Lingclusive
 
-This is a Universal Handsign Translator project that uses Mediapipe and PyTorch to recognize hand gestures. The system collects data from images or real-time video, preprocesses the data, trains a neural network model, and predicts gestures from live video input. The project consists of several scripts for data collection, preprocessing, model training, and prediction. The systems then feed these data to the camera on the webapp.
+This is a Multination Handsign Translator project that uses Mediapipe and PyTorch to recognize hand gestures. The system collects data from images or real-time video, preprocesses the data, trains a neural network model, and predicts gestures from live video input. The project consists of several scripts for data collection, preprocessing, model training, and prediction. The systems then feed these data to the camera on the webapp.
 
 ## Setup Instructions
 
