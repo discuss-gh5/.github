@@ -6,14 +6,14 @@ This is a Universal Handsign Translator project that uses Mediapipe and PyTorch 
 
 ### Prerequisites
 
-- Flask == 3.0.3
-- Flask_cors == 4.0.1
-- Mediapipe == 0.10.14
-- Numpy == 2.0.0
-- Pandas == 2.2.2
-- Pillow == 10.4.0
-- Scikit_learn == 1.5.1
-- Torch == 2.3.1
+- Flask >= 3.0.3
+- Flask_cors >= 4.0.1
+- Mediapipe >= 0.10.14
+- Numpy >= 2.0.0
+- Pandas >= 2.2.2
+- Pillow >= 10.4.0
+- Scikit_learn >= 1.5.1
+- Torch >= 2.3.1
 
 ## Installation
 
